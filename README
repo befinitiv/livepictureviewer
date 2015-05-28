@@ -1,0 +1,3 @@
+This application reads images from a PQI aircard with an enabled ftp and displays them randomly on the screen.
+
+Intended purpose: Put a camera with a PQI aircard inside on tables at a party and have a beamer in front that displays the images (nearly) instantly
